@@ -42,7 +42,7 @@ bash
 Kopyala
 Düzenle
 python app.py
-Uygulama http://localhost:5001 adresinde çalışır.
+Uygulama http://127.0.0.1:5001 adresinde çalışır.
 
 🔐 Kimlik Doğrulama Akışı
 ✅ Kullanıcı Kaydı
